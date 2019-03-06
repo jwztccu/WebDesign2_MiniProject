@@ -1,0 +1,9 @@
+html {
+  background: url(https://www.trumpetvine.com/wp-content/images/2008.01/sc17_06_550.jpg)
+  no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    background-blend-mode: lighten;
+}
