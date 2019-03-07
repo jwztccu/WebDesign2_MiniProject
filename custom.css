@@ -1,5 +1,8 @@
+ background-color: gray;
+
+
 html {
-  background-color: gray;
+ 
   no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
