@@ -82,3 +82,37 @@ section.calc-method2 {
     box-sizing: border-box;
   }
 }
+
+/* calc() method */
+section.calc-method4 { 
+  background: #FeC277;
+  width: 700px;
+  margin: 0 auto;
+  box-sizing: content-box;
+  padding: 50px calc(50% - 350px);
+}
+
+@media (max-width: 800px) {
+  section.calc-method4 {
+    width: 100%;
+    padding: 50px;
+    box-sizing: border-box;
+  }
+}
+
+/* calc() method */
+section.calc-method3 { 
+  background: #FFC300;
+  width: 700px;
+  margin: 0 auto;
+  box-sizing: content-box;
+  padding: 50px calc(50% - 350px);
+}
+
+@media (max-width: 800px) {
+  section.calc-method3 {
+    width: 100%;
+    padding: 50px;
+    box-sizing: border-box;
+  }
+}
